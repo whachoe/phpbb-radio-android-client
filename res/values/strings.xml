@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Breakz Radio</string>
+    <string name="label_posted_by">Posted by</string>
+    <string name="label_posted_in">in</string>
+    <string name="label_posted_on">on</string>
+    <string name="no_connection_title">No connection</string>
+    <string name="no_connection_content">Web is not reachable. Please make sure you have enabled WIFI or mobile internet</string>
+</resources>
